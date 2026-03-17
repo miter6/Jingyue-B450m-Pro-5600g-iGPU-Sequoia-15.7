@@ -5,7 +5,7 @@ This is an open-source EFI folder for running macOS on the Jingyue B450M PRO mot
 CPU: 5600G  
 Motherboard: Jingyue B450M PRO  
 Bootloader: OpenCore (v1.0.6)  
-macOS Version: macOS Sequoia 15.7.2 (24G325)  
+macOS Version: macOS Sequoia 15.7.4 (24G517)  
 Audio:  Realtek ALC897  
 LAN：Realtek RTL8168H/8111H PCI Express Gigabit Ethernet  
 WIFI: Intel® Dual Band Wireless-AC 7260 - Product Specifications   
